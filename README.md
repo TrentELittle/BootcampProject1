@@ -4,6 +4,7 @@ The EPA's Air Quality Index AQI was aquired through: https://aqs.epa.gov/aqsweb/
 To obtain access to the AQI and use this code, sign up with an email and save both the email and the key in a file labeled "config.py" and format the key and email as following:
 
 aqs_api_key = "YOUR_KEY"
+
 email_address = "YOUR_EMAIL"
 
 The EPA AQI webpage provided, gives detail in how to manage specific pull parameters such as Pollutant being tracked, time frame, and location.
